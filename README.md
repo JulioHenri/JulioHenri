@@ -1,9 +1,29 @@
-<p align="center">
-  <img src="https://github.com/JulioHenri/JulioHenri/blob/master/LogoJH2.png?raw=true" width="700"
-  alt="juliohenri" />
+# About me 
+
+My name is Júlio Henri, I'm from Brazil 🇧🇷 and statistician graduated by Universidade Federal do Pará (UFPa). Currently working as freelancer and open to projects. 
+
+# Skills
+
+- Data Modeling
+- Data Visualization 
+- Exploratory Data analysis
+- Machine Learning
+- Query and manipulation of data in MySQL
+
+# Softwares
+
+- Excel
+- Python
+- Power BI
+- MySQL
+# Projects
+
+- Restaurant analysis with Seaborn and Scipy (portuguese)
+- Getting data from website 
+- Why are our best and most experienced employees leaving prematurely? (portuguese)
+- Predicting the rent amount 
 </p>
 <p align="center">
-SQL | Python | Machine Learning | Analytics | Statistics 
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/juliohenri/" alt="LinkedIn">
