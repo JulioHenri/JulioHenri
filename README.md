@@ -1,6 +1,6 @@
 # About me 
 
-My name is Júlio Henri, I'm from Brazil 🇧🇷 and statistician graduated by Universidade Federal do Pará (UFPa). Currently working as freelancer and open to projects. 
+My name is Júlio Henri, I'm from Brazil and statistician graduated by Universidade Federal do Pará (UFPa). Currently working as freelancer and open to projects. 
 
 # Skills
 
