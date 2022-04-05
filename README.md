@@ -17,7 +17,7 @@ My name is Júlio Henri, I'm from Brazil and statistician graduated by Universid
 - Power BI
 - MySQL
 
-# Projects
+# Main Projects
 
 - <a href="https://github.com/JulioHenri/Analise-Restaurante"> Restaurant analysis with Seaborn and Scipy (portuguese) </a>
 - <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website </a>
