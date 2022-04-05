@@ -12,17 +12,17 @@ My name is Júlio Henri, I'm from Brazil and statistician graduated by Universid
 
 # Softwares
 
-- Excel
+- Microsoft Office 
 - Python
 - Power BI
-- MySQL
+- SQL (SQL Server, MySQL)
 
 # Main Projects
 
 - <a href="https://github.com/JulioHenri/Analise-Restaurante"> Restaurant analysis with Seaborn and Scipy (portuguese) </a>
 - <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website </a>
 - <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Why are our best and most experienced employees leaving prematurely? (portuguese) </a>
-- <a href="https://github.com/JulioHenri/Houses-to-rent"> Predicting the rent amount 
+- <a href="https://github.com/JulioHenri/Houses-to-rent"> Predicting rent amount 
 </a>
 
 </p>
