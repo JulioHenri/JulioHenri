@@ -8,7 +8,7 @@ My name is Júlio Henri, I'm from Brazil and statistician graduated by Universid
 - Data Visualization 
 - Exploratory Data analysis
 - Machine Learning
-- Query and manipulation of data in MySQL
+- Query and manipulation of data in SQL
 
 # Softwares
 
