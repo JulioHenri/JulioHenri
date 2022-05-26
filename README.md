@@ -4,9 +4,9 @@ My name is Júlio Henri, I'm from Brazil and statistician graduated by Universid
 
 # Skills
 
-- Data Modeling
+- Statistical Modeling
 - Data Visualization 
-- Exploratory Data analysis
+- Exploratory Data Analysis
 - Machine Learning
 - Query and manipulation of data in SQL
 
