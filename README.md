@@ -1,16 +1,16 @@
 # About me 
 
-Hi, there! My name is Júlio, I've worked as an intern and analyst at <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> and this is my Data Science repository! 👋
+E aí! Meu nome é Júlio, trabalhei como estagiário e analista no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e esse é meu repositório de Data Science! 👋
 
-I'm from Brazil, statistician graduated and statistics Master's student. Currently working as freelancer and open to work. 
+Sou graduado em Estatística e estudante de mestrado em Estatística. Sempre aceitando projetos como freelancer e open to work.
 
 # Skills
 
-- Statistical Modeling
-- Data Visualization 
-- Exploratory Data Analysis
+- Modelagem Estatística
+- Visualização de dados (Dashboards)
+- Análise Exploratória de dados
 - Machine Learning
-- Query and manipulation of data in SQL
+- Consulta e manipulação de dados no SQL
 
 # Softwares
 
@@ -21,11 +21,34 @@ I'm from Brazil, statistician graduated and statistics Master's student. Current
 
 # Main Projects
 
-- <a href="https://github.com/JulioHenri/Analise-Restaurante"> Restaurant analysis with Seaborn and Scipy (portuguese) </a>
-- <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website (Web Scraping) </a>
-- <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Why are our best and most experienced employees leaving prematurely? (portuguese) </a>
-- <a href="https://github.com/JulioHenri/Houses-to-rent"> Predicting rent amount 
+Exploratory Data Analysis
+- <a href="https://github.com/JulioHenri/Analise-Restaurante"> Restaurant analysis (introductory) </a>
+  - Entendendo o contexto dos dados
+  - Manipulação de dados
+  - Análise Exploratória de dados
+  - Data Viz
+  - Teste de hipótese
+Machine Learning
+- <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Why are our best and most experienced employees leaving prematurely? </a>
+  - Análise de dados
+  - Regressão Logística
+  - Feature Selection (RFE)
+  - Pipelines
+  - Feature Engineering
+- <a href="https://github.com/JulioHenri/Houses-to-rent"> Predicting rent amount (EN) 
 </a>
+  - Regressão Linear 
+  - Métricas: RMSE, MAE, R2
+  - Análise de correlação
+  - Feature scaling
+  - Interpretação dos coeficientes
+
+WebScraping (Coleta de dados automática)
+- <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website </a>
+  - html
+  - Iterações em diferentes páginas do site
+  - Armazenamento e exportação em formato .csv 
+
 
 </p>
 <p align="center">
