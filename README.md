@@ -1,6 +1,6 @@
 # About me 
 
-Hi, there! My name is Júlio and this is my Data Science repository! 👋
+Hi, there! My name is Júlio, I've worked as an intern and analyst at <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> and this is my Data Science repository! 👋
 
 I'm from Brazil, statistician graduated and statistics Master's student. Currently working as freelancer and open to work. 
 
