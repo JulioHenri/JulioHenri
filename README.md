@@ -1,6 +1,7 @@
 # About me 
 
 Hi, there! My name is Júlio and this is my Data Science repository! 👋
+
 I'm from Brazil, statistician graduated and statistics Master's student. Currently working as freelancer and open to work. 
 
 # Skills
