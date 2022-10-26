@@ -1,6 +1,7 @@
 # About me 
 
-My name is Júlio Henri, I'm from Brazil and statistician graduated by Universidade Federal do Pará (UFPa). Currently working as freelancer and open to projects. 
+Hi, there! My name is Júlio and this is my Data Science repository! 👋
+I'm from Brazil, statistician graduated and statistics Master's student. Currently working as freelancer and open to work. 
 
 # Skills
 
@@ -12,9 +13,9 @@ My name is Júlio Henri, I'm from Brazil and statistician graduated by Universid
 
 # Softwares
 
-- Microsoft Office 
-- Python
-- Power BI
+- Microsoft Office (Excel, PowerPoint, Word)
+- Python (Pandas, Numpy, Scipy, Sklearn)
+- Power BI (Dashboards, DAX, M) 
 - SQL (SQL Server, MySQL)
 
 # Main Projects
