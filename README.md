@@ -28,6 +28,7 @@ Exploratory Data Analysis
   - Análise Exploratória de dados
   - Data Viz
   - Teste de hipótese
+  
 Machine Learning
 - <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Why are our best and most experienced employees leaving prematurely? </a>
   - Análise de dados
