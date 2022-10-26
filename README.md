@@ -35,8 +35,7 @@ Machine Learning
   - Feature Selection (RFE)
   - Pipelines
   - Feature Engineering
-- <a href="https://github.com/JulioHenri/Houses-to-rent"> Predicting rent amount (EN) 
-</a>
+- <a href="https://github.com/JulioHenri/Houses-to-rent"> Predicting rent amount (EN) </a>
   - Regressão Linear 
   - Métricas: RMSE, MAE, R2
   - Análise de correlação
