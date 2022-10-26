@@ -2,7 +2,7 @@
 
 E aí! Meu nome é Júlio, trabalhei como estagiário e analista no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e esse é meu repositório de Data Science! 👋
 
-Sou graduado em Estatística e estudante de mestrado em Estatística. Sempre aceitando projetos como freelancer e open to work.
+Sou graduado e estudante de mestrado em Estatística. Sempre aceitando projetos como freelancer e open to work.
 
 # Skills
 
