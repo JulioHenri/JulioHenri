@@ -74,6 +74,15 @@ WebScraping (Coleta de dados automática)
   - Join tables
   - Análise de dados
 
+Data Visualization
+- <a href="https://github.com/JulioHenri/valorant_project/tree/master"> Analisando dados do Valorant Champions 2022 </a>
+  - Power BI
+  - Construção de layout no PowerPoint
+  - Comparação de estatísticas entre jogadores/times/funções/personagens
+  - Análise multivariada
+  - Modelagem de dados
+
+
 </p>
 <p align="center">
 </p>
