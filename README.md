@@ -64,10 +64,15 @@ Machine Learning
 
 WebScraping (Coleta de dados automática)
 - <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website </a>
+  - BeautifulSoup, urlopen
   - html
   - Iterações em diferentes páginas do site
   - Armazenamento e exportação em formato .csv 
-
+- <a href="https://github.com/JulioHenri/Scraping-tables-python"> Neymar vs Mbappe Comparison </a>
+  - BeautifulSoup, urlopne, pandas, seaborn
+  - html
+  - Join tables
+  - Análise de dados
 
 </p>
 <p align="center">
