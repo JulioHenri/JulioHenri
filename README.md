@@ -19,7 +19,7 @@ Sou graduado e estudante de mestrado em Estatística. Sempre aceitando projetos 
 - Power BI (Dashboards, DAX, M) 
 - SQL (SQL Server, MySQL)
 
-# Main Projects
+# Projects
 
 Exploratory Data Analysis
 - <a href="https://github.com/JulioHenri/Analise-Restaurante"> Restaurant analysis (introductory) </a>
@@ -28,6 +28,18 @@ Exploratory Data Analysis
   - Análise Exploratória de dados
   - Data Viz
   - Teste de hipótese
+ - <a href="https://github.com/JulioHenri/freelance_TCC_Odontologia"> Análise Fatorial e testes estatísticos </a>
+  - Análise Fatorial e interpretação dos fatores
+  - Teste de confiabilidade (alfa de cronbach)
+  - Manipulação de matrizes
+  - Numpy
+  - Pandas
+  - <a href="https://github.com/JulioHenri/Trabalho_DETRAN"> Análise dos dados da "Operação Verão" </a>
+  - Análise Exploratória dos dados
+  - Matplolib, Seaborn
+  - Teste de hipótese
+  - Teste qui-quadrado
+  - Manipulação de variáveis
   
 Machine Learning
 - <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Why are our best and most experienced employees leaving prematurely? </a>
@@ -42,6 +54,13 @@ Machine Learning
   - Análise de correlação
   - Feature scaling
   - Interpretação dos coeficientes
+- <a href="https://github.com/JulioHenri/S-ries-Temporais/tree/master"> Análise de ações da Globo </a>
+  - Trabalhando com dados tipo datetime
+  - Média móvel
+  - Teste de estacionariedade
+  - Análise dos componentes principais de uma série temporal
+  - Definição dos parâmetros de um modelo ARIMA
+  - Métricas e suas interpretações: MAE, MAPE
 
 WebScraping (Coleta de dados automática)
 - <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website </a>
