@@ -75,13 +75,12 @@ WebScraping (Coleta de dados automática)
   - Data analysis
 
 Data Visualization
-- <a href="https://github.com/JulioHenri/valorant_project/tree/master"> Analisando dados do Valorant Champions 2022 </a>
+- <a href="https://github.com/JulioHenri/valorant_project/tree/master"> Valorant Champions Tour 2022 - data analysis </a>
   - Power BI
-  - Construção de layout no PowerPoint
-  - Comparação de estatísticas entre jogadores/times/funções/personagens
-  - Análise multivariada
-  - Modelagem de dados
-
+  - Layout construction in PowerPoint
+  - Comparison of stats between players/teams/roles/agents
+  - Multivariate analysis
+  - Data modeling
 
 </p>
 <p align="center">
