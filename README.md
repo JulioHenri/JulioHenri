@@ -42,7 +42,7 @@ Exploratory Data Analysis
   - Manipulação de variáveis
   
 Machine Learning
-- <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Why are our best and most experienced employees leaving prematurely? </a>
+- <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Por que nossos melhores e mais experientes funcionários estão saindo prematuramente?  </a>
   - Análise de dados
   - Regressão Logística
   - Feature Selection (RFE)
