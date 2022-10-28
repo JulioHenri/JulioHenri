@@ -63,7 +63,7 @@ Machine Learning
   - Métricas e suas interpretações: MAE, MAPE
 
 WebScraping (Coleta de dados automática)
-- <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website </a>
+- <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website (EN) </a>
   - BeautifulSoup, urlopen
   - html
   - Iterações em diferentes páginas do site
