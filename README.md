@@ -66,13 +66,13 @@ WebScraping (Coleta de dados automática)
 - <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website (EN) </a>
   - BeautifulSoup, urlopen
   - html
-  - Iterações em diferentes páginas do site
-  - Armazenamento e exportação em formato .csv 
+  - Iterations on different pages in web
+  - Storage and export in .csv format
 - <a href="https://github.com/JulioHenri/Scraping-tables-python"> Neymar vs Mbappe Comparison (EN) </a>
   - BeautifulSoup, urlopne, pandas, seaborn
   - html
   - Join tables
-  - Análise de dados
+  - Data analysis
 
 Data Visualization
 - <a href="https://github.com/JulioHenri/valorant_project/tree/master"> Analisando dados do Valorant Champions 2022 </a>
