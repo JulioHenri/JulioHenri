@@ -49,11 +49,11 @@ Machine Learning
   - Pipelines
   - Feature Engineering
 - <a href="https://github.com/JulioHenri/Houses-to-rent"> Predicting rent amount (EN) </a>
-  - Regressão Linear 
-  - Métricas: RMSE, MAE, R2
-  - Análise de correlação
+  - Linear Regression 
+  - Métrics: RMSE, MAE, R2
+  - Correlation analysis
   - Feature scaling
-  - Interpretação dos coeficientes
+  - Interpretation of coefficients 
 - <a href="https://github.com/JulioHenri/S-ries-Temporais/tree/master"> Análise de ações da Globo </a>
   - Trabalhando com dados tipo datetime
   - Média móvel
