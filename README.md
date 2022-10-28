@@ -56,8 +56,8 @@ Machine Learning
   - Interpretation of coefficients 
 - <a href="https://github.com/JulioHenri/S-ries-Temporais/tree/master"> Análise de ações da Globo </a>
   - Trabalhando com dados tipo datetime
-  - Média móvel
-  - Teste de estacionariedade
+  - Médias móveis
+  - Teste de estacionariedade (Teste Dickey-fuller aumentado)
   - Análise dos componentes principais de uma série temporal
   - Definição dos parâmetros de um modelo ARIMA
   - Métricas e suas interpretações: MAE, MAPE
