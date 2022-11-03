@@ -28,7 +28,7 @@ Exploratory Data Analysis
   - Análise Exploratória de dados
   - Data Viz
   - Teste de hipótese
-- <a href="https://github.com/JulioHenri/freelance_TCC_Odontologia"> Análise Fatorial e testes estatísticos </a>
+- <a href="https://github.com/JulioHenri/freelance_TCC_Odontologia"> Análise estatística de dados de marketing voltado para dentistas </a>
   - Análise Fatorial e interpretação dos fatores
   - Teste de confiabilidade (alfa de cronbach)
   - Manipulação de matrizes
