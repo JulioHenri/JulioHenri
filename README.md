@@ -61,6 +61,15 @@ Machine Learning
   - Análise dos componentes principais de uma série temporal
   - Definição dos parâmetros de um modelo ARIMA
   - Métricas e suas interpretações: MAE, MAPE
+- <a href="https://github.com/JulioHenri/cliente_marcos"> Avaliação de dados epidemiológicos e laboratoriais </a>
+  - Análise descritiva
+  - Limpeza de dados
+  - Tabela de frequências
+  - Relação de variáveis quantitativas e qualitativas
+  - Pré - processamento de dados
+  - Dados desbalanceados (modelo - Árvore de decisão)
+  - Métrica: AUC (Area under the ROC curve)
+  - Undersampling e oversampling
 
 WebScraping (Coleta de dados automática)
 - <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website (EN) </a>
