@@ -1,6 +1,6 @@
 # About me 
 
-E aí! Meu nome é Júlio, trabalhei como estagiário e analista no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e esse é meu repositório de Data Science! 👋
+E aí! Meu nome é Júlio, trabalhei como estagiário de Estatística e com análise de dados no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e esse é meu repositório de Data Science! 👋
 
 Sou graduado e estudante de mestrado em Estatística. Sempre aceitando projetos como freelancer e open to work.
 
