@@ -1,8 +1,8 @@
 # About me 
 
-E aí! Meu nome é Júlio, trabalhei como estagiário de Estatística e com análise de dados no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e esse é meu repositório de Data Science! 👋
+E aí, bem vindo ao meu repositório de Data Science!👋
 
-Sou graduado e estudante de mestrado em Estatística. Sempre aceitando projetos como freelancer e open to work.
+Meu nome é Júlio, estatístico pela UFPA. Trabalhei como estagiário de Estatística e com análise de dados no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e atualmente trabalho como Analista de Estratégia de Valor e Data Science Jr. na <a href="https://www.daiichisankyo.com.br/site/"> Daiichi Sankyo Brasil.
 
 # Skills
 
