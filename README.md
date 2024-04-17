@@ -2,7 +2,7 @@
 
 E aí, bem vindo ao meu repositório de Data Science!👋
 
-Meu nome é Júlio, estatístico pela UFPA. Trabalhei como estagiário de Estatística e com análise de dados no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e atualmente trabalho como Analista de Estratégia de Valor e Data Science Jr. na <a href="https://www.daiichisankyo.com.br/site/"> Daiichi Sankyo Brasil.
+Meu nome é Júlio, estatístico pela UFPA. Trabalhei como estagiário de Estatística e com análise de dados no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e atualmente trabalho como Analista de Geração de Evidências na <a href="https://www.daiichisankyo.com.br/site/"> Daiichi Sankyo Brasil.
 
 # Skills
 
@@ -10,24 +10,21 @@ Meu nome é Júlio, estatístico pela UFPA. Trabalhei como estagiário de Estat�
 - Visualização de dados (Dashboards)
 - Análise Exploratória de dados
 - Machine Learning
+- Feature Engineering
 - Consulta e manipulação de dados no SQL
 
 # Softwares
 
 - Microsoft Office (Excel, PowerPoint, Word)
-- Python (Pandas, Numpy, Scipy, Sklearn)
+- Python (Pandas, Numpy, Scipy, Sklearn, Pyspark)
 - Power BI (Dashboards, DAX, M) 
 - SQL (SQL Server, MySQL)
+- Hadoop (HDFS, Hive, Pig, HBase)
+
 
 # Projects
 
 Exploratory Data Analysis
-- <a href="https://github.com/JulioHenri/Analise-Restaurante"> Restaurant analysis (introductory) </a>
-  - Entendendo o contexto dos dados
-  - Manipulação de dados
-  - Análise Exploratória de dados
-  - Data Viz
-  - Teste de hipótese
 - <a href="https://github.com/JulioHenri/freelance_TCC_Odontologia"> Análise estatística de dados de marketing voltado para dentistas </a>
   - Análise Fatorial e interpretação dos fatores
   - Teste de confiabilidade (alfa de cronbach)
