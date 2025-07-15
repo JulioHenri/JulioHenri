@@ -32,12 +32,12 @@ Exploratory Data Analysis
   - Numpy
   - Pandas
 - <a href="https://github.com/JulioHenri/Trabalho_DETRAN"> Data Analysis from "Operação Verão" </a>
-- Exploratory Data Analysis (EDA)
-- Matplotlib, Seaborn
-- Hypothesis Testing
-- Chi-Square Test
-- Variable Manipulation
-- Machine Learning
+  - Exploratory Data Analysis (EDA)
+  - Matplotlib, Seaborn
+  - Hypothesis Testing
+  - Chi-Square Test
+  - Variable Manipulation
+  - Machine Learning
 - <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Why our best and more experients employees are leving early?  </a>
   - Data analysis
   - Logistic Regression
