@@ -1,17 +1,17 @@
 # About me 
 
-E aí, bem vindo ao meu repositório de Data Science!👋
+Hey there, welcome to my Data Science repository! 👋
 
-Meu nome é Júlio, estatístico pela UFPA. Trabalhei como estagiário de Estatística e com análise de dados no <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/"> Hospital das Clínicas Gaspar Vianna </a> e atualmente trabalho como Analista de Geração de Evidências na <a href="https://www.daiichisankyo.com.br/site/"> Daiichi Sankyo Brasil.
+My name is Júlio, I'm a statistician graduated from UFPA. I worked as a Statistics intern and Junior Data Analyst at the <a href="http://www.gasparvianna.pa.gov.br/site_novo/wp/">Hospital das Clínicas Gaspar Vianna</a>, as an Evidence Generation Analyst at <a href="https://www.daiichisankyo.com.br/site/">Daiichi Sankyo Brazil</a>, and currently as a Data Consultant at <a href="https://www2.hapvida.com.br/">Hapvida</a>.
 
 # Skills
 
-- Modelagem Estatística
-- Visualização de dados (Dashboards)
-- Análise Exploratória de dados
+- Statistical Modeling
+- Data Visualization (Dashboards)
+- Exploratory Data Analysis (EDA)
 - Machine Learning
 - Feature Engineering
-- Consulta e manipulação de dados no SQL
+- Data Querying and Manipulation in SQL
 
 # Softwares
 
@@ -31,17 +31,16 @@ Exploratory Data Analysis
   - Manipulação de matrizes
   - Numpy
   - Pandas
-- <a href="https://github.com/JulioHenri/Trabalho_DETRAN"> Análise dos dados da "Operação Verão" </a>
-  - Análise Exploratória dos dados
-  - Matplolib, Seaborn
-  - Teste de hipótese
-  - Teste qui-quadrado
-  - Manipulação de variáveis
-  
-Machine Learning
-- <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Por que nossos melhores e mais experientes funcionários estão saindo prematuramente?  </a>
-  - Análise de dados
-  - Regressão Logística
+- <a href="https://github.com/JulioHenri/Trabalho_DETRAN"> Data Analysis from "Operação Verão" </a>
+- Exploratory Data Analysis (EDA)
+- Matplotlib, Seaborn
+- Hypothesis Testing
+- Chi-Square Test
+- Variable Manipulation
+- Machine Learning
+- <a href="https://github.com/JulioHenri/HR-analyze-and-predict"> Why our best and more experients employees are leving early?  </a>
+  - Data analysis
+  - Logistic Regression
   - Feature Selection (RFE)
   - Pipelines
   - Feature Engineering
@@ -51,24 +50,24 @@ Machine Learning
   - Correlation analysis
   - Feature scaling
   - Interpretation of coefficients 
-- <a href="https://github.com/JulioHenri/S-ries-Temporais/tree/master"> Análise de ações da Globo </a>
-  - Trabalhando com dados tipo datetime
-  - Médias móveis
-  - Teste de estacionariedade (Teste Dickey-fuller aumentado)
-  - Análise dos componentes principais de uma série temporal
-  - Definição dos parâmetros de um modelo ARIMA
-  - Métricas e suas interpretações: MAE, MAPE
-- <a href="https://github.com/JulioHenri/cliente_marcos"> Avaliação de dados epidemiológicos e laboratoriais </a>
-  - Análise descritiva
-  - Limpeza de dados
-  - Tabela de frequências
-  - Relação de variáveis quantitativas e qualitativas
-  - Pré - processamento de dados
-  - Dados desbalanceados (modelo - Árvore de decisão)
-  - Métrica: AUC (Area under the ROC curve)
+- <a href="https://github.com/JulioHenri/S-ries-Temporais/tree/master"> Stock Analysis from Globo </a>
+  - datetime variables
+  - Moving average
+  - Teste Dickey-fuller increased)
+  - Analysis of components from time series
+  - Definition parameters of ARIMA model
+  - Metrics interpretability: MAE, MAPE
+- <a href="https://github.com/JulioHenri/cliente_marcos"> Epidemiological evaluation </a>
+  - Descreptive analysis
+  - Data Cleaning 
+  - Frequency table
+  - Relation of quanti and quali variables
+  - Data Pre-Processing
+  - Imbalanced data - Decision tree
+  - Metrics: AUC (Area under the ROC curve)
   - Undersampling e oversampling
 
-WebScraping (Coleta de dados automática)
+WebScraping 
 - <a href="https://github.com/JulioHenri/Games-Web-Scraping"> Getting data from games website (EN) </a>
   - BeautifulSoup, urlopen
   - html
